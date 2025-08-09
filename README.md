@@ -16,8 +16,6 @@ The goal was to design and implement a solution for querying, analyzing, and vis
 - **Tableau** – for visualization and dashboard design.
 - **CSV / flat files** – for raw data input.
 
-## 📂 Repository Structure
-
 ## 📊 Key Features
 - **Normalized database schema** for efficient data storage.
 - **Parameterized queries** for dynamic filtering.
