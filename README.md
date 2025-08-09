@@ -1,4 +1,4 @@
-# PSI_AUG
+# Database Management
 
 ## 📌 Project Overview
 The **PSI_AUG** project demonstrates a complete **data pipeline** — from raw data storage and SQL-based transformations to interactive visualization in **Tableau**.  
